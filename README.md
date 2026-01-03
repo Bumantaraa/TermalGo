@@ -1,5 +1,5 @@
 # TermalGo
-Solusi integrasi digital inklusif untuk pedagang tradisional Malioboro. Developed by Team Bumantara
+Solusi integrasi digital inklusif untuk pedagang tradisional Malioboro. Developed by Team Bumantara Universitas Islam Indonesia
 # 🚀 TermalGo: Empowering Every Stall, Bridging Every Gap
 
 <p align="center">
