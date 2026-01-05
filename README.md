@@ -53,8 +53,6 @@ Proyek ini menggunakan bahasa desain **BUMANTARA** yang hangat dan otentik:
 Lihat rancangan aplikasi kami secara langsung melalui tautan di bawah ini:
 
 👉 **[Klik Di Sini untuk Prototype Figma](https://www.figma.com/proto/BelhgRo15RQ2ssp1Q0jP6J/BUMANTARA?node-id=0-1&t=Dw8WXUI9J6LWd8Hv-1)**
-**[Klik Di Sini untuk Download](https://drive.google.com/file/d/1Qo3jh1HgEBLgU6048MtV6HUg6vhpHcDJ/view?usp=share_link)**
-
 
 ---
 
