@@ -7,6 +7,7 @@ Solusi integrasi digital inklusif untuk pedagang tradisional Malioboro. Develope
   <img src="https://img.shields.io/badge/Design-Figma-blueviolet" alt="Design">
   <img src="https://img.shields.io/badge/Focus-Inclusive%20Economy-green" alt="Focus">
 </p>
+<img src="https://img.sanishtech.com/u/89f755429bf76c416c8b3659dd95117a.png" alt="Screenshot 2026-01-05 at 12.19.36" width="1272" height="1800" loading="lazy" style="max-width:100%;height:auto;">
 
 **TermalGo** adalah platform integrasi digital inklusif yang dirancang khusus untuk menciptakan kesetaraan ekonomi bagi seluruh pedagang tradisional, terutama mereka yang berada di lokasi "pelosok" atau kurang strategis. Proyek ini dikembangkan oleh **Team Bumantara** untuk memastikan tidak ada lapak yang tertinggal di era ekonomi digital.
 
@@ -52,6 +53,8 @@ Proyek ini menggunakan bahasa desain **BUMANTARA** yang hangat dan otentik:
 Lihat rancangan aplikasi kami secara langsung melalui tautan di bawah ini:
 
 👉 **[Klik Di Sini untuk Prototype Figma](https://www.figma.com/proto/BelhgRo15RQ2ssp1Q0jP6J/BUMANTARA?node-id=0-1&t=Dw8WXUI9J6LWd8Hv-1)**
+**[Klik Di Sini untuk Download](https://drive.google.com/file/d/1Qo3jh1HgEBLgU6048MtV6HUg6vhpHcDJ/view?usp=share_link)**
+
 
 ---
 
